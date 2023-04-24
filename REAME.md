@@ -1,0 +1,1 @@
+Need to first download colorcet, plotoptix and threading. raytrace.py contains the main code (doesn't need to be changed hopefully!) and example.py shows how to run.
